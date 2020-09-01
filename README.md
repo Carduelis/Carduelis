@@ -1,3 +1,5 @@
+![Cover of my profile](https://raw.githubusercontent.com/Carduelis/Carduelis/profile_cover.jpg) "Profile Cover")
+
 ### Hi there 👋
 
 I am a front-end developer with 10 years experience in web development: from responsive web-sites to SPA and micro-frontends.
