@@ -1,3 +1,4 @@
+
 ![Cover of my profile](https://github.com/Carduelis/Carduelis/blob/master/profile_cover.jpg)
 
 ### Hi there 👋
@@ -9,7 +10,7 @@ Since 2019 I have been conducting to several pet projects as an architect and a 
 
 ### Skills
 
-![Javascript React](https://img.shields.io/badge/Javascript-React-blue)
+![Javascript React](https://img.shields.io/badge/Javascript-React-13CDD3) ![Javascript React](https://img.shields.io/badge/Javascript-Redux-13D3AD) ![Javascript React](https://img.shields.io/badge/Javascript-Mobx-D37613) ![Javascript React](https://img.shields.io/badge/Javascript-Apollo-1370D3)
 
 - Javascript (ES6+), React/Redux/Mobx/Apollo;
 - Progressive Web Apps (PWA), Single page applications (SPA);
