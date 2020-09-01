@@ -1,4 +1,4 @@
-![Cover of my profile](https://github.com/Carduelis/Carduelis/blob/master/profile_cover.jpg) "Profile Cover")
+![Cover of my profile](https://github.com/Carduelis/Carduelis/blob/master/profile_cover.jpg)
 
 ### Hi there 👋
 
