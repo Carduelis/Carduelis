@@ -9,6 +9,8 @@ Since 2019 I have been conducting to several pet projects as an architect and a 
 
 ### Skills
 
+![Javascript React](https://img.shields.io/badge/Javascript-React-blue)
+
 - Javascript (ES6+), React/Redux/Mobx/Apollo;
 - Progressive Web Apps (PWA), Single page applications (SPA);
 - Modern css: JSS, styled-components, Material UI;
