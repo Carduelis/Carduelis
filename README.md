@@ -21,6 +21,7 @@ Since 2019 I have been conducting to several pet projects as an architect and a 
 - Google Cloud Platform, Firebase, Firestore;
 - nodejs, next.js, express.js, graphQL;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carduelis)](https://github.com/Carduelis/github-readme-stats)
 
 <!--
 **Carduelis/Carduelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
